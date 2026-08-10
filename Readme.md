@@ -37,7 +37,8 @@ has changed and lets you reopen a watermark or a header to adjust it.
 ## Download
 
 Grab the latest **`InPDFInstaller.exe`** from the
-[Releases page](https://github.com/FadyAzzi/InPDF/releases).
+[Releases page](https://github.com/FadyAzzi/InPDF/releases) or [Direct Link](https://github.com/FadyAzzi/InPDF/releases/latest/download/InPDFInstaller.zip
+).
 
 Run it and follow the wizard. Administrator rights are required, because the
 installer registers the PDF file type for all users.
@@ -239,7 +240,7 @@ Some Anti-Viruses or EDRs might block the download of the exe file due to the pa
 Please download the latest exe or zip version from the right side section "Releases", or use below direct links.
 
 Direct link to the exe is: 
-https://github.com/TheCyberMate/InCyter/releases/latest/download/InPDFInstaller.exe
+https://github.com/FadyAzzi/InPDF/releases/latest/download/InPDFInstaller.exe
 
 Direct link to the zip is: 
-https://github.com/TheCyberMate/InCyter/releases/latest/download/InPDFInstaller.zip
+https://github.com/FadyAzzi/InPDF/releases/latest/download/InPDFInstaller.zip
