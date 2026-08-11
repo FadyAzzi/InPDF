@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img alt="version" src="https://img.shields.io/badge/version-0.0.1-1fa8a0">
   <img alt="platform" src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4">
   <img alt="dependencies" src="https://img.shields.io/badge/dependencies-none-brightgreen">
   <img alt="offline" src="https://img.shields.io/badge/works-offline-555">
